@@ -1,9 +1,20 @@
 # MIVIA Efficient Age Estimation Deep Learning Framework
-This repository will contain the code for the paper *"Effective training of convolutional neural networks for age estimation based on knowledge distillation"*, soon to be published in "Neural Computing and Applications".
 
-```diff
-- Note: Code and models will be added soon
+A detailed explaination of the material contained in this repository is in the paper
 ```
+Effective training of convolutional neural networks for age estimation based on knowledge distillation
+A. Greco, A. Saggese, M. Vento, V. Vigilante
+Neural Computing and Applications 2021.
+```
+If you find any of this content useful for your research, please cite the paper above.
+
+
+## Content of this repository
+[X] Age annotation for the [VGGFace2 dataset](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+[ ] Trained efficient deep CNN models for age from our paper **(coming soon)**
+[ ] Code used for training and evaluating the models on various datasets **(coming soon)**
+
+
 
 ## Abstract
 
