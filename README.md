@@ -1,8 +1,8 @@
 # MIVIA Efficient Age Estimation Deep Learning Framework
-This repository will contain the code for *"Effective training of convolutional neural networks for age estimation based on knowledge distillation"*, under revision at "Neural Computing and Applications".
+This repository will contain the code for the paper *"Effective training of convolutional neural networks for age estimation based on knowledge distillation"*, soon to be published in "Neural Computing and Applications".
 
 ```diff
-- Note: Code and models will be added after the acceptance of our eponymous work.
+- Note: Code and models will be added soon
 ```
 
 ## Abstract
