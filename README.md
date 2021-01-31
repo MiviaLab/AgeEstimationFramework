@@ -10,7 +10,7 @@ If you find any of this content useful for your research, please cite the paper 
 
 
 ## Content of this repository
-- [X] Age annotation for the [VGGFace2 dataset](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+- [X] Age annotation for the [VGGFace2 dataset](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/). [Download the annotation here.](https://github.com/MiviaLab/AgeEstimationFramework/releases/tag/0)
 - [ ] Trained efficient deep CNN models for age from our paper **(coming soon)**
 - [ ] Code used for training and evaluating the models on various datasets **(coming soon)**
 
