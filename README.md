@@ -35,6 +35,8 @@ We experimentally  show  that  such  student  models  are  able  to almost reach
 pip3 install -r requirements.txt
 ```
 
+Images and annotation for the different datasets are not provided and need to be downloaded separately from the original sources.
+
 ## Dataset
 The implemented _dataset_ are based on VGGFACE2, IMDB-WIKI (cleaned), LFW+, CHALEARN APPA-REAL and ADIENCE. <br>
 Run these commands from dataset directory in order to verify that the images and annotations are correctly loaded.
