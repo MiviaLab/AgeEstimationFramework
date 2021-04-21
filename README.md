@@ -1,13 +1,19 @@
 # MIVIA Efficient Age Estimation Deep Learning Framework
 
-A detailed explaination of the material contained in this repository is in the paper
+A detailed explaination of the material contained in this repository is in [this paper](https://link.springer.com/article/10.1007/s00521-021-05981-0). 
+If you find any of this content useful for your research, please cite
 ```
 Effective training of convolutional neural networks for age estimation based on knowledge distillation
 A. Greco, A. Saggese, M. Vento, V. Vigilante
 Neural Computing and Applications 2021.
+https://doi.org/10.1007/s00521-021-05981-0
 ```
-If you find any of this content useful for your research, please cite the paper above.
 
+
+For more details about the research in the field of age estimation, you can refer to: 
+`
+V. Carletti, A. Greco, G. Percannella and M. Vento, "Age from Faces in the Deep Learning Revolution," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 9, pp. 2113-2132, 1 Sept. 2020, doi: 10.1109/TPAMI.2019.2910522.
+`
 
 ## Content of this repository
 - [X] Age annotation for the [VGGFace2 dataset](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/).
