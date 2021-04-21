@@ -13,7 +13,7 @@ https://doi.org/10.1007/s00521-021-05981-0
 For more details about the research in the field of age estimation, you can refer to: 
 `
 V. Carletti, A. Greco, G. Percannella and M. Vento, "Age from Faces in the Deep Learning Revolution," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 9, pp. 2113-2132, 1 Sept. 2020, doi: 10.1109/TPAMI.2019.2910522.
-`
+` [(link)](https://ieeexplore.ieee.org/abstract/document/8686239)
 
 ## Content of this repository
 - [X] Age annotation for the [VGGFace2 dataset](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/).
