@@ -115,8 +115,5 @@ python3 train_adience_interface.py ../trained_ended/_netmobilenet96_datasetvggfa
 Pretrained models can be [downloaded here](https://github.com/MiviaLab/AgeEstimationFramework/releases/tag/1)
 
 ## Evaluation
-In order to evaluate the networks, move into the _evaluate_ directory and run the following commands according to the dataset you want to test which. In the subdirectory _results_, as the name suggests, you will find the results of these scripts, divided by dataset.
-
-For each dataset, the provided commands must be executed in order beacuse each command depends on the results of the previous ones.
-
+In order to evaluate the networks, move into the _evaluate_ directory and use the scripts provided for testing on the supported datasets. In the subdirectory _results_, as the name suggests, you will find the results of these scripts, divided by dataset.
 
